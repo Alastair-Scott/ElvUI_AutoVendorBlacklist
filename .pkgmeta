@@ -1,0 +1,14 @@
+package-as: ElvUI_AutoVendorBlacklist
+
+externals:
+
+ignore:
+  - README.md
+
+license-output: LICENSE.txt
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+enable-nolib-creation: no

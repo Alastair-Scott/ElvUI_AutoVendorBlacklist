@@ -1,0 +1,10 @@
+## Interface: 90200
+## Author: Eylwen
+## Version: @project-version@
+## Title: |cff1784d1ElvUI|r |cff00b3ffAutoVendorBlacklist|r
+## Notes: A plugin to provide a blacklist for the auto vendoring of grey items.
+## RequiredDeps: ElvUI
+## X-Curse-Project-ID: 585872
+## X-WoWI-ID: 26246
+
+ElvUI_AutoVendorBlacklist.lua
