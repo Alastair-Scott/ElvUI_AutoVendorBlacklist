@@ -6,5 +6,6 @@
 ## RequiredDeps: ElvUI
 ## X-Curse-Project-ID: 585872
 ## X-WoWI-ID: 26246
+## X-Wago-ID: 0mNwvWGo
 
 ElvUI_AutoVendorBlacklist.lua
