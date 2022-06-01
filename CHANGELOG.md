@@ -1,3 +1,7 @@
+### Changes: V1.0.3
+
+- Updated game version
+
 ### Changes: V1.0.2
 
 - Setup Wago release integration
